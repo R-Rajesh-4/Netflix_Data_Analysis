@@ -13,7 +13,7 @@ The primary objective of this analysis is to:
 
 ## Tools and Technologies
 - Python for data analysis and manipulation.
-- Libraries: Pandas, NumPy, Matplotlib, and Seaborn for data processing and visualization.
+- Libraries: Pandas, NumPy, Matplotlib for data processing and visualization.
 - Jupyter Notebook for interactive development.
 
 ## Methodology
